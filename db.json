@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "Broken motherboard on PC 34A2",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "John Doe",
+      "date": "2021-06-16T16:49:25.448Z",
       "id": 1
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Replaced network cable in room 231",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "tech": "Clara Myles",
+      "date": "2021-06-16T17:32:45.441Z"
     },
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "message": "Fixed backup maintenance system for building 32",
+      "attention": false,
+      "tech": "Clara Myles",
+      "date": "2021-06-16T16:51:55.086Z",
       "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
     }
   ],
   "techs": [
